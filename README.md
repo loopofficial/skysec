@@ -1,4 +1,4 @@
-![SkySec Logo](https://media.discordapp.net/attachments/1093209580424667308/1200979675212677201/skysec.png?ex=65c8267b&is=65b5b17b&hm=c13bf3370dd69dffaaded2d0f13e973e6a789f0adc4204a5dc7c202afe3096fd&=&format=webp&quality=lossless)
+![SkySec Logo](https://media.discordapp.net/attachments/1001962479762538622/1211089203723509870/skysec.png?ex=65ecedb7&is=65da78b7&hm=41652a74a972b70a310ba6002a9dbb29bc5d76ad0e30e3ff600f8e6406ce6dbd&=&format=webp&quality=lossless)
 
 # SkySec - The Ultimate Cyber Security Suite
 
