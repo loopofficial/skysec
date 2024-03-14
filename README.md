@@ -1,4 +1,4 @@
-![SkySec Logo]([https://loopofficial.work/skysec.png))
+![SkySec Logo]([https://loopofficial.work/skysec.png)
 
 # SkySec - The Ultimate Cyber Security Suite
 
